@@ -1,5 +1,5 @@
 # PlexSubFixerInjector
-A batch file to easily append inject-titles-for-plex.js in windows
+A batch file to easily append inject-titles-for-plex.js in Plex Media Player for Windows
 # How to use
 1. Download [inject-titles-for-plex.js](https://gist.github.com/iwalton3/dedc88cd7d3cfd32d557e2d353a874c0)
 2. Place in the same folder [this bat](https://github.com/AlvaroBeiro/PlexSubFixerInjector/blob/master/inject.bat)
